@@ -16,7 +16,7 @@ d rt = k(θ − rt) dt + σ√(rt) dZ
 rt: level of rates at time t
 θ: long-run mean rate
 
-> when the rates equal the long-term mean, the drift term thus equals 0. k is the speed at which the rates revert to the mean.
+when the rates equal the long-term mean, the drift term thus equals 0. k is the speed at which the rates revert to the mean.
 
 σ: rates volatility
 Z: Weiner process (normally distributed)
